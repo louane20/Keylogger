@@ -18,6 +18,7 @@ This mini project is for educational purposes. it leverages the pynput library t
 ## Features
 
 ## Requirements
+Before starting, you need to have Python installed.
 
 ## Let's have fun
 
