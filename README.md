@@ -36,7 +36,7 @@ python3 -m pip install pynput
 ```
 ## Tested on
 - Kali linux
-- 
+
 ## Let's have fun
 
 - Cloning:
