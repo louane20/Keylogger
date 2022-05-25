@@ -22,8 +22,15 @@ A keylogger is a tool that can record and report on a computer user's activity a
 - Send Files with GMAIL.
 
 ## Requirements
-Before starting, you need to have Python installed.
-
+- Python installed.
+- pip
+```
+sudo apt install python3-pip
+```
+- pinput librery
+```
+python3 -m pip install pynput
+```
 ## Let's have fun
 
 - Cloning:
