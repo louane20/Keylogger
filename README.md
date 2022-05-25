@@ -13,8 +13,8 @@ Keylogger
 ## Project description
 This mini project is for educational purposes. it leverages the pynput library to create a simple keylogger that gets keyboard and mouse position input and sends it to your mail every one hour.
 
-- What is Keylogger?
-A keylogger is a tool that can record and report on a computer user's activity as they interact with a computer. The name is a short version of keystroke logger, and one of the main ways keyloggers keep track of you is by recording what you type as you type it. But as you'll see, there are different kind of keyloggers, and some record a broader range of inputs. Someone watching everything you do may sound creepy, and keyloggers are often installed by malicious hackers for nefarious purposes. But there are legitimate, or at least legal, uses for keyloggers as well, as parents can use them to keep track of kids online and employers can similarly monitor their workers. For more information about keylogger visit the following site
+- What is Keylogger?</br>
+A keylogger is a tool that can record and report on a computer user's activity as they interact with a computer. The name is a short version of keystroke logger, and one of the main ways keyloggers keep track of you is by recording what you type as you type it. But as you'll see, there are different kind of keyloggers, and some record a broader range of inputs. Someone watching everything you do may sound creepy, and keyloggers are often installed by malicious hackers for nefarious purposes. But there are legitimate, or at least legal, uses for keyloggers as well, as parents can use them to keep track of kids online and employers can similarly monitor their workers. For more information about keylogger visit the following  <a href="https://www.csoonline.com/article/3326304/keyloggers-explained-how-attackers-record-computer-inputs.html">site</a>
 
 ## Features
 
@@ -31,12 +31,6 @@ git clone https://github.com/louane20/Keylogger.git
 
 ```
 cd Keylogger
-```
-```
-sudo chmod a+x Keylogger.sh
-```
-```
-./Keylogger.sh
 ```
 <p align="center">
 ENJOY 
