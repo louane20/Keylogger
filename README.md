@@ -27,8 +27,11 @@ Before starting, you need to have Python installed.
 ```
 git clone https://github.com/louane20/Keylogger.git
 ```
+- Running:
 
-
+```
+cd Keylogger
+```
 <p align="center">
 ENJOY 
    <img src="https://pngimage.net/wp-content/uploads/2018/06/hacker-mask-png-1.png" width="40px" margin = "30px">
