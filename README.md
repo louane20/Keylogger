@@ -50,8 +50,8 @@ sudo chmod a+x Keylogger.sh
 ./Keylogger.sh
 ```
 we were inspired by
-- <a "https://pypi.org/project/pynput/"> pynput documentation </a>
-- <a "https://www.youtube.com/watch?v=-UPCISEdyoA"> Cyber school</a>
+- https://pypi.org/project/pynput/
+- https://www.youtube.com/watch?v=-UPCISEdyoA
 <p align="center">
 ENJOY 
    <img src="https://pngimage.net/wp-content/uploads/2018/06/hacker-mask-png-1.png" width="40px" margin = "30px">
