@@ -6,8 +6,8 @@ Keylogger
   <a href="#Project-description">Project description</a>   |   
   <a href="#Features">Features</a>   |   
   <a href="#Requirements">Requirements</a>   |
-  <a href="#Lets-have-fun">Let's have fun</a>   | 
   <a href="#Tested-on">Tested on</a>   | 
+  <a href="#Lets-have-fun">Let's have fun</a>   | 
   <a href="#Source-of-inspiration">Source of inspiration</a>   | 
   
 
@@ -34,7 +34,9 @@ sudo apt install python3-pip
 ```
 python3 -m pip install pynput
 ```
-
+## Tested on
+- Kali linux
+- 
 ## Let's have fun
 
 - Cloning:
@@ -52,9 +54,8 @@ sudo chmod a+x Keylogger.sh
 ```
 ./Keylogger.sh
 ```
-## Tested on
-- Kali linux
-## SNource of inspiration
+
+## Source of inspiration
 we were inspired by
 - https://pypi.org/project/pynput/
 - https://www.youtube.com/watch?v=-UPCISEdyoA
