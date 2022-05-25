@@ -48,7 +48,7 @@ git clone https://github.com/louane20/Keylogger.git
 ```
 cd Keylogger
 ```
-- don't forget to modify the keylogger.py file with your own email
+- don't forget to modify the keyboard.py file with your own email
 ```
 sudo chmod a+x Keylogger.sh
 ```
