@@ -47,6 +47,9 @@ git clone https://github.com/louane20/Keylogger.git
 ```
 cd Keylogger
 ```
+we were inspired by
+- <a https://pypi.org/project/pynput/> pynput documentation </a>
+- <a https://www.youtube.com/watch?v=-UPCISEdyoA> Cyber school</a>
 <p align="center">
 ENJOY 
    <img src="https://pngimage.net/wp-content/uploads/2018/06/hacker-mask-png-1.png" width="40px" margin = "30px">
