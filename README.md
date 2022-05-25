@@ -22,15 +22,20 @@ A keylogger is a tool that can record and report on a computer user's activity a
 - Send Files with GMAIL.
 
 ## Requirements
-- Python installed.
-- pip
+Before starting, you need to have Python installed.
+- The library we need </br>
+We need pynput librery :</br>
+First of all we need to install pip. Open a terminal and type the following commands to install pip for Python 3.
 ```
+sudo apt update
 sudo apt install python3-pip
 ```
-- pinput librery
+pynput librery  installation:
 ```
-python3 -m pip install pynput
+python -m pip install pynput
 ```
+
+
 ## Let's have fun
 
 - Cloning:
@@ -41,12 +46,6 @@ git clone https://github.com/louane20/Keylogger.git
 
 ```
 cd Keylogger
-```
-```
-sudo chmod a+x Keylogger.sh
-```
-```
-./Keylogger.sh
 ```
 <p align="center">
 ENJOY 
