@@ -23,6 +23,10 @@ Before starting, you need to have Python installed.
 
 ## Let's have fun
 
+- Cloning:
+'''
+git clone https://github.com/louane20/Keylogger.git
+'''
 
 <p align="center">
 ENJOY 
