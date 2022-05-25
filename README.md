@@ -32,6 +32,12 @@ git clone https://github.com/louane20/Keylogger.git
 ```
 cd Keylogger
 ```
+```
+sudo chmod a+x Keylogger.sh
+```
+```
+./Keylogger.sh
+```
 <p align="center">
 ENJOY 
    <img src="https://pngimage.net/wp-content/uploads/2018/06/hacker-mask-png-1.png" width="40px" margin = "30px">
